@@ -1,3 +1,5 @@
+[![react-sp.png](https://s4.postimg.org/bgxjdssb1/react_sp.png)](https://postimg.org/image/dlhwevtxl/)
+
 # react-sp
 Repositório criado com o objetivo de documentar questões recorrentes de forma que a comunidade possa aproveitar.
 

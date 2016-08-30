@@ -1,4 +1,4 @@
-[![Artboard Write.png](https://s14.postimg.org/61fjxntpt/Artboard_Write.png)](https://postimg.org/image/85zwyqvcd/)
+[![ReactSP-W-H-SML.png](https://s14.postimg.org/ri184ge75/React_SP_W_H_SML.png)](https://postimg.org/image/68dltlxwd/)
 
 # react-sp
 Repositório criado com o objetivo de documentar questões recorrentes de forma que a comunidade possa aproveitar.

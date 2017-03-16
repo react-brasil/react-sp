@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/react-brasil/react-sp/raw/master/logo.jpeg" alt="React SP" title="React SP"/>
+  <img src="https://github.com/react-brasil/react-sp/raw/master/logo.jpeg" alt="React SP" title="React SP" width="200"/>
 </p>
 
 <h1 align="center">React SP</h1>

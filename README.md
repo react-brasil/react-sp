@@ -4,7 +4,9 @@
 
 <h1 align="center">React SP</h1>
 
-### Repositório criado para críticas e/ou sugestões do meetup [React SP](https://meetup.com/pt-BR/ReactJS-SP).
+#### Repositório criado para críticas e/ou sugestões do meetup [React SP](https://meetup.com/pt-BR/ReactJS-SP).
+
+### Quer sediar o React SP? [Comente aqui a empresa indicada](https://github.com/react-brasil/react-sp/issues/2)!
 
 ### Links úteis
 
